@@ -12,4 +12,5 @@ Projeto simples em Python simulando um caixa eletrônico.
 - Python
 
 ## 📌 Autor
-Eduardo Junior
+Eduardo Santos
+https://www.linkedin.com/in/eduardo-santos-4446122b3/
