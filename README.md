@@ -12,4 +12,4 @@ Projeto simples em Python simulando um caixa eletrônico.
 - Python
 
 ## 📌 Autor
-Eduardo
+Eduardo Junior
